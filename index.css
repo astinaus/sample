@@ -1,0 +1,69 @@
+
+body, h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainbox {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid #7e7e7e;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    
+}
+
+.title-box {
+    text-align: right;
+    border-bottom: 1px solid #727272;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.title-text {
+    color: #7e7e7e;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: lighter;
+    border-bottom: 1px solid #7e7e7e;
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+}
+
+.about-me-text {
+    font-size: 12px;
+    line-height: 19px;
+}
+
+.float-wrap {
+    overflow: hidden;
+}
+
+.name-text {
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.year-text {
+    float: right;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.desc-text {
+    font-size: 11px;
+}
+
+.desc-sub-text {
+    padding-left: 16px;
+    font-size: 10px;
+}
